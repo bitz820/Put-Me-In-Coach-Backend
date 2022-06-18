@@ -1,52 +1,139 @@
 {
-  "toys": [
+  "teams": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Lakers",
+      "type": "3v3",
+      "playersNeeded": 0,
+      "color": "Green",
+      "date": "09/15/2022",
+      "court": 1
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Red Flags",
+      "type": "5v5",
+      "playersNeeded": 0,
+      "color": "Red",
+      "date": "09/15/2022",
+      "court": 4
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Raptors",
+      "type": "5v5",
+      "playersNeeded": 1,
+      "color": "White",
+      "date": "09/15/2022",
+      "court": 6
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Flatirons",
+      "type": "5v5",
+      "playersNeeded": 2,
+      "color": "Blue",
+      "date": "09/15/2022",
+      "court": 2
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Stack Squad",
+      "type": "3v3",
+      "playersNeeded": 0,
+      "color": "Purple",
+      "date": "09/15/2022",
+      "court": 2
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Curry Squad",
+      "type": "3v3",
+      "playersNeeded": 0,
+      "color": "Yellow",
+      "date": "09/15/2022",
+      "court": 1
     },
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Hammer Time",
+      "type": "3v3",
+      "playersNeeded": 1,
+      "color": "Black",
+      "date": "09/15/2022",
+      "court": 3
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Dunks",
+      "type": "5v5",
+      "playersNeeded": 2,
+      "color": "Red",
+      "date": "09/15/2022",
+      "court": 4
+    },
+    {
+      "id": 9,
+      "name": "Juniors",
+      "type": "5v5",
+      "playersNeeded": 1,
+      "color": "White",
+      "date": "09/15/2022",
+      "court": 5
+    },
+    {
+      "id": 10,
+      "name": "Magic",
+      "type": "3v3",
+      "playersNeeded": 1,
+      "color": "Black",
+      "date": "09/15/2022",
+      "court": 8
+    },
+    {
+      "name": "Snickers",
+      "playersNeeded": 2,
+      "type": "5v5",
+      "color": "Orange",
+      "date": "09/15/2022",
+      "court": 1,
+      "id": 12
+    },
+    {
+      "name": "Bella's Brains",
+      "playersNeeded": 2,
+      "type": "5v5",
+      "color": "Black",
+      "date": "09/15/2022",
+      "court": 69,
+      "id": 14
+    },
+    {
+      "name": "asdf",
+      "playersNeeded": 2,
+      "type": "3v3",
+      "color": "Blue",
+      "date": "06/15/2022",
+      "court": 2,
+      "id": 15
+    },
+    {
+      "name": "mark",
+      "playersNeeded": 0,
+      "type": "3v3",
+      "color": "Yellow",
+      "date": "06/15/2022",
+      "court": 1,
+      "id": 16
+    },
+    {
+      "name": "asdf",
+      "playersNeeded": 2,
+      "type": "5v5",
+      "color": "Magenta",
+      "date": "06/16/2022",
+      "court": 4,
+      "id": 17
     }
   ]
 }
